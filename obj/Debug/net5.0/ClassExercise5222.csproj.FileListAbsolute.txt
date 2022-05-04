@@ -1,0 +1,16 @@
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.csproj.AssemblyReference.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.AssemblyInfoInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.AssemblyInfo.cs
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.csproj.CoreCompileInputs.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\bin\Debug\net5.0\ClassExercise5222.exe
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\bin\Debug\net5.0\ClassExercise5222.deps.json
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\bin\Debug\net5.0\ClassExercise5222.runtimeconfig.json
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\bin\Debug\net5.0\ClassExercise5222.runtimeconfig.dev.json
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\bin\Debug\net5.0\ClassExercise5222.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\bin\Debug\net5.0\ClassExercise5222.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\refint\ClassExercise5222.dll
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.pdb
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ClassExercise5222.genruntimeconfig.cache
+C:\Users\gusgo\OneDrive\Desktop\repos\ClassExercise5222\ClassExercise5222\obj\Debug\net5.0\ref\ClassExercise5222.dll
